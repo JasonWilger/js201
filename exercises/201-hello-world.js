@@ -5,6 +5,12 @@
 // - hello('banana') should return 'Hello, banana!'
 // - hello('DETROIT') should return 'Hello, DETROIT!'
 
+function hello(name = "World")  // hello world is printed if no other name is submitted. here - ( name (= WORLD)).
+{
+    
+console.log("Hello " + name + "!");
+  }
+  hello("Mustache");
 
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 // Write a function "helloDefault" such that if no name is given it will return

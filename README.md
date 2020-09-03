@@ -1,4 +1,5 @@
 # JavaScript 201 - Programming Exercises
+Hello World!
 
 Programming exercises for a beginning JavaScript programmer.
 
